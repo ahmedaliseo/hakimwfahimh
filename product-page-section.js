@@ -19,7 +19,6 @@
           '<div style="font-size:22px;">📸</div>' +
           '<p>أضف صورة طفلك</p>' +
         '</div>' +
-       
         '<div style="text-align:center;">' +
           '<div style="font-size:22px;">✨</div>' +
           '<p>ستصلك صورة كرتونية لطيفة له ملصقة علي التغليف</p>' +
