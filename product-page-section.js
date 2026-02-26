@@ -18,15 +18,12 @@
       '<div style="display:flex;gap:20px;margin-bottom:25px;">' +
         '<div style="text-align:center;">' +
           '<div style="font-size:22px;">📸</div>' +
-          '<p>ارفع صورة طفلك</p>' +
+          '<p>أضف صورة طفلك</p>' +
         '</div>' +
-        '<div style="text-align:center;">' +
-          '<div style="font-size:22px;">🎨</div>' +
-          '<p>نضيف الاسم والصورة داخل القصة</p>' +
-        '</div>' +
+       
         '<div style="text-align:center;">' +
           '<div style="font-size:22px;">✨</div>' +
-          '<p>تصلك القصة مطبوعة فاخرة</p>' +
+          '<p>ستصلك صورة كرتونية لطيفة له ملصقة علي التغليف</p>' +
         '</div>' +
       '</div>';
     h1.parentNode.insertBefore(wrapper, h1.nextSibling);
