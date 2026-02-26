@@ -13,7 +13,8 @@
     wrapper.style.background = "#fafafa";
     wrapper.innerHTML =
       '<h2 style="font-size:20px;font-weight:bold;margin-bottom:10px;">جديدنا</h2>' +
-      '<p style="margin-bottom:20px;">لدينا خيار تغليف - واهداء الالعاب مع صورة</p>' +
+      '<p style="margin-bottom:20px;">لدينا خيار تغليف - واهداء الالعاب مع صورة الطفل</p>' +
+      '<p style="margin-bottom:20px;">أضف صورة طفلك - ستصلك صورة كرتونية لطيفة له ملصقة علي التغليف</p>' +
       '<div style="display:flex;gap:20px;margin-bottom:25px;">' +
         '<div style="text-align:center;">' +
           '<div style="font-size:22px;">📸</div>' +
